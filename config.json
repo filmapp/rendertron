@@ -1,8 +1,1 @@
-{
-	"cache": "datastore",
-	"cacheConfig": {
-		"cacheDurationMinutes": 1440,
-		"cacheMaxEntries": -1
-	}
-}
-
+{}

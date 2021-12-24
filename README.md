@@ -12,7 +12,7 @@ npm run build
 ## デプロイ
 
 ```bash
-gcloud app deploy app.yaml --project tellerapi-dev --no-promote
+./deploy.sh tellerapi-dev
 ```
 
 ---
